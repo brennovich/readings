@@ -1,6 +1,6 @@
 # Readings
 
-Clippings and Notes on things I read, technical or don't
+Clippings and Notes from things I read, technical or not.
 
 ## Literature
 
