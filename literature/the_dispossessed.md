@@ -2,7 +2,7 @@
 
 I love Sci-fi, but the first time my girlfriend talked about **The Left Hand of The Darkness**, also from [Ursula K. Le Guin](https://en.m.wikipedia.org/wiki/Ursula_K._Le_Guin), I didn’t feel attracted, probably I didn’t like the book cover :) You know what they say about books and their covers, I’ll spare you from that.
 
-Anyway, the important thing is that when I decided to read the upper-mentioned book, I loved every detail. Ursula’s write style is awesome, the reader feels like everything is real. Because of that, **The Dispossessed** earned the priority in book queue.
+Anyway, the important thing is that when I decided to read the upper-mentioned book, I loved every detail. Ursula’s write style is awesome, the reader feels like everything is real. Because of that, **The Dispossessed** earned the priority in my book queue.
 
 ## Chapter 5
 
