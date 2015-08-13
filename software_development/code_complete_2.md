@@ -14,31 +14,34 @@ OK, after talking so much about _Construction_ (and the book even started yet), 
 
 > Verifying that the groundwork has been laid so that the construction can proceed successfully
 
-  - Things like adding and configuring frameworks, libraries, technologies are takes as groundwork.
+Things like adding and configuring frameworks, libraries, technologies are takes as groundwork.
 
 > Determining how your code will be tested
 
-  - Dealing with testing integration with external dependencies, low level tests scopes.
+Dealing with testing integration with external dependencies, low level tests scopes.
 
 > Designing and writing classes an routines
+
 > Creating and naming variables and named constants
+
 > Selecting control structures and organizing blocks statements
+
 > Unit testing, integration testing, and debugging your own code
 
-  - Cleary the coding process, as far as I can see this points are visited many times during the process.
+Cleary the coding process, as far as I can see this points are visited many times during the process.
 
 > Reviewing other team members' low-level designs and code having them them reviewing yours.
 
-  - Code Review™ :)
+Code Review™ :)
 
 > Polishing code by carefully formatting and commenting it
 
-  - Tricky, I would say that most of formating those days are done by linting tools, and about commenting it I read documenting it.
+Tricky, I would say that most of formating those days are done by linting tools, and about commenting it I read documenting it.
 
 > Integrating software components that were created separately
 
-  - Put thing to work.
+Put thing to work.
 
 > Tuning code to make it faster and use fewer resources
 
-  - Finally care a bit about performance and optimizations.
+Finally care a bit about performance and optimizations.
