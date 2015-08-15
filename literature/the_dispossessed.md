@@ -23,12 +23,19 @@ Sometimes it's a bit hard to follow the chronology changing chapter by chapter, 
 Shevek is having a very sentimental conversation with his old friend Bedap, and trying to explaing to him why he is stuck in his theory. There is a _renowned_ physicist which has power and influence in the Physics Federation, when Bedap try to open Shevek eyes:
 
 - Bedap:
+
 > The little men. Sabul's friends! The people in power.
+
 - Shevek:
+
 > What are you talking about, Dap? We have no power structure.
+
 - Bedap:
+
 > No? What makes Sabul so strong?
+
 - Shevek:
+
 > Not a power structure, a government. This isn't Urras, after all!
 
 Then Bedap says very interesting things about ideas control (actually what made me written down this part)
@@ -36,7 +43,9 @@ Then Bedap says very interesting things about ideas control (actually what made 
 > No. We have no government, no laws, all right. But as far as I can see, _ideas_ never were controlled by laws and governments [...]. You can't crush ideas by suppressing them. You can only crush ideas by ignoring them. By refusing to think, refusing to change.
 
 - Shevek:
+
 > Crazy talk, Dap.
 
 - Bedap:
+
 > No, brother, I'm sane. What drives people crazy is trying to live outside reality. Reality is terrible. It can kill you. Given time, it certainly will kill you. [...]. But it's the lies, the evasions of reality, that drive you crazy.
