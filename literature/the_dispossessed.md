@@ -22,19 +22,19 @@ Sometimes it's a bit hard to follow the chronology changing chapter by chapter, 
 
 Shevek is having a very sentimental conversation with his old friend Bedap, and trying to explaing to him why he is stuck in his theory. There is a _renowned_ physicist which has power and influence in the Physics Federation, when Bedap try to open Shevek eyes:
 
-- Bedap:
+**Bedap:**:
 
 > The little men. Sabul's friends! The people in power.
 
-- Shevek:
+**Shevek:**:
 
 > What are you talking about, Dap? We have no power structure.
 
-- Bedap:
+**Bedap:**:
 
 > No? What makes Sabul so strong?
 
-- Shevek:
+**Shevek:**:
 
 > Not a power structure, a government. This isn't Urras, after all!
 
@@ -42,10 +42,20 @@ Then Bedap says very interesting things about ideas control (actually what made 
 
 > No. We have no government, no laws, all right. But as far as I can see, _ideas_ never were controlled by laws and governments [...]. You can't crush ideas by suppressing them. You can only crush ideas by ignoring them. By refusing to think, refusing to change.
 
-- Shevek:
+**Shevek:**:
 
 > Crazy talk, Dap.
 
-- Bedap:
+**Bedap:**:
 
 > No, brother, I'm sane. What drives people crazy is trying to live outside reality. Reality is terrible. It can kill you. Given time, it certainly will kill you. [...]. But it's the lies, the evasions of reality, that drive you crazy.
+
+-------------------------------------------------------------------------------
+
+OK, after reading this discussion between Bedap and Shevek (in the book there are a lot of interesting thing being said, I'm not going to transcript all of it, go read it) I have to say that is for the very nature of the human being to be selfish, to be protective to their power and advantages, sadly. When exposed to the smaller advantage one start to put this in the front of everything. It's like George Orwell shown in **[Animal Farm](https://en.wikipedia.org/wiki/Animal_Farm)**, but here is even worst because Anarres was built with solidarity in mind since the Settlement, and people had no concepts of taking advantages, nor owning things, or whatever. It's like this selfish behaviour is very intrinsic into the human nature.
+
+Bedad rise a point that may explain why people end to accept all of it:
+
+**Bedap:**
+
+> It's always easier not ot think for oneself. Find a nice safe hierarchy and settle in. Don't make changes, don't risk disapproval, don't upset your sundics. It's always easiest to let yourself be governed.
