@@ -45,3 +45,16 @@ Put thing to work.
 > Tuning code to make it faster and use fewer resources
 
 Finally care a bit about performance and optimizations.
+
+## Chapter 2. Metaphors for a Richer Understanding of Software Development
+
+Very interesting chapter, I always took metaphors as a powerfull tool to explain complex things in a way that one is able to understand. But after reading this I understood that metaphors has a broader effect! It shapes the way we build/imagine things, here is an example that Steven uses:
+
+> Consider [...] a heavy stone swinging back and forth on a string. Before Galileo, an Aristotelian [...] thought that a heavy object moved naturally from a higher position to a state of rest at a lower one. The Aristotelian would thik that what the stone was really doing was falling with difficult. When Galileo saw the swinging stone, he saw a pendulum. He thought that what the stone was really doing was repeating the same motion again and again [...].
+
+> The suggestive powers of two models are quite different. The Aristotelian who saw the swinging stone as an **object falling** would observe the stone's weight, the height to which it had been raised, and the time it took to come to rest. For Galileo's pendulum model, [...] he observed the stone's weight, the radious of the pendulum [...], the angular displacement, and the time per swing.
+
+See, how limitant can be a metaphor, it implies an contained environment of concepts!
+
+
+> Galileo discoved laws the Aristotelians could not discover because their mode led them to look at different phenomena **and ask different question**
