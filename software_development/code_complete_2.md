@@ -54,7 +54,7 @@ Very interesting chapter, I always took metaphors as a powerfull tool to explain
 
 > The suggestive powers of two models are quite different. The Aristotelian who saw the swinging stone as an **object falling** would observe the stone's weight, the height to which it had been raised, and the time it took to come to rest. For Galileo's pendulum model, [...] he observed the stone's weight, the radious of the pendulum [...], the angular displacement, and the time per swing.
 
-See, how limitant can be a metaphor, it implies an contained environment of concepts!
+See, how limitant can be a metaphor, it implies a contained environment of concepts!
 
 
 > Galileo discoved laws the Aristotelians could not discover because their mode led them to look at different phenomena **and ask different question**
